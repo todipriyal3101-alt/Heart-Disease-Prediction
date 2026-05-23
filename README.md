@@ -53,4 +53,3 @@ This app takes 11 clinical inputs from the user and predicts whether the person 
 
 ---
 
-## 📁 Project Structure
