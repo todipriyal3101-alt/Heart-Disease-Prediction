@@ -52,4 +52,4 @@ This app takes 11 clinical inputs from the user and predicts whether the person 
 - **Joblib** — Model serialization
 
 ---
-
+## Click on: heart-disease-priyal.streamlit.app
