@@ -6,7 +6,10 @@ A machine learning web application that predicts the risk of heart disease based
 ---
 
 ## 🌐 Live Demo
-> Run locally using the steps below or deploy on Streamlit Cloud.
+
+🔗 **[Click here to visit the app](https://heart-disease-priyal.streamlit.app)**
+
+> Or copy and paste this link in your browser: https://heart-disease-priyal.streamlit.app
 
 ---
 
@@ -50,6 +53,3 @@ This app takes 11 clinical inputs from the user and predicts whether the person 
 - **Pandas & NumPy** — Data preprocessing
 - **Streamlit** — Web app framework
 - **Joblib** — Model serialization
-
----
-## Click on: heart-disease-priyal.streamlit.app
